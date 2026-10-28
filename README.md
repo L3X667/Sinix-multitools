@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+![SINIX Logo](logo.png)
 
 &#x20; <b>Boîte à outils multifonctionnelle avancée orientée cybersécurité, OSINT et automatisation.</b>
 
