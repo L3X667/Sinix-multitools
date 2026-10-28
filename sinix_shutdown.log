@@ -1,0 +1,7 @@
+[17:27:33] === Lancement Network-Pc-Shutdown ===
+[17:27:33] IP locale détectée: 192.168.56.1
+[17:27:37] Plage choisie: 192.168.56.0/24
+[17:27:37] Scan démarré sur 192.168.56.0/24 — 254 hôtes
+[17:27:42] Scan terminé — 1 machine(s) trouvée(s): ['L3X']
+[17:27:52] Choix: S
+[17:27:54] Shutdown self déclenché

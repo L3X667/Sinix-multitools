@@ -1,0 +1,15 @@
+{
+    "launched": false,
+    "configugreen": true,
+    "auto_update": true,
+    "skip_animation": true,
+    "webhooks": [],
+    "tokens": [],
+    "bots": [],
+    "cookies": [],
+    "github_star": "",
+    "page": 4,
+    "plugins_visible": [
+        "Example Plugin"
+    ]
+}
